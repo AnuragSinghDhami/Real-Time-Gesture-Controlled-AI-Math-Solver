@@ -6,6 +6,22 @@ A real-time, gesture-controlled application that allows you to draw mathematical
 
 ---
 
+## 📸 Screenshots
+
+1. **Solving a linear equation:** \(2x + 3 = 7 \Rightarrow x = 2\)  
+   ![Solving linear equation (2x + 3 = 7)](p1.png)
+
+2. **Definite integral:** \(\int_{0}^{\pi} \sin x \, dx = 2\)  
+   ![Integration of sin(x) from 0 to pi](p2.png)
+
+3. **Right-angled triangle (Pythagoras):** finding a side using \(c^2 = a^2 + b^2\)  
+   ![Finding a value using the hypotenuse formula](p3.png)
+
+4. **Simple sum between two numbers**  
+   ![Simple sum between two numbers](p4.png)
+
+---
+
 ## ✨ Features
 
 * **🎥 Live Camera Feed:** Uses your webcam to capture video in real-time.
