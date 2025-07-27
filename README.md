@@ -12,23 +12,30 @@ A real-time, gesture-controlled application that allows you to draw mathematical
    This image shows the step-by-step solution for finding the value of x in a simple linear equation.
 
    Equation: 2x+3=7
-   
    Solution:
-   
    2x=7−3
-   
    2x=4
+   x=2
    
-   x=2 
    ![Solving linear equation (2x + 3 = 7)](p1.png)
 
-2. **Definite integral:** \(\int_{0}^{\pi} \sin x \, dx = 2\)  
+3. **Definite integral:** <br>
+
+   his image displays the calculation of the definite integral of 
+   sin(x) from 0 to pi.
+   
    ![Integration of sin(x) from 0 to pi](p2.png)
 
-3. **Right-angled triangle (Pythagoras):** finding a side using \(c^2 = a^2 + b^2\)  
+3. **Right-angled triangle (Pythagoras):** <br>
+
+   This image demonstrates how to find the length of a missing side in a right-angled triangle using the Pythagorean theorem, a2 + b2 = c2
+   
    ![Finding a value using the hypotenuse formula](p3.png)
 
-4. **Simple sum between two numbers**  
+4. **Simple sum between two numbers** <br>
+
+   simple addition btw 2 number
+   
    ![Simple sum between two numbers](p4.png)
 
 ---
