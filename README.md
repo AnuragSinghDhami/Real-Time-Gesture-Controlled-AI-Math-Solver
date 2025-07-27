@@ -21,7 +21,7 @@ A real-time, gesture-controlled application that allows you to draw mathematical
 
 3. **Definite integral:** <br>
 
-   his image displays the calculation of the definite integral of 
+   This image displays the calculation of the definite integral of 
    sin(x) from 0 to pi.
    
    ![Integration of sin(x) from 0 to pi](p2.png)
