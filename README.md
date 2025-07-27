@@ -8,7 +8,18 @@ A real-time, gesture-controlled application that allows you to draw mathematical
 
 ## 📸 Screenshots
 
-1. **Solving a linear equation:** \(2x + 3 = 7 \Rightarrow x = 2\)  
+1. **Solving a linear equation:** <br>
+   This image shows the step-by-step solution for finding the value of x in a simple linear equation.
+
+   Equation: 2x+3=7
+   
+   Solution:
+   
+   2x=7−3
+   
+   2x=4
+   
+   x=2 
    ![Solving linear equation (2x + 3 = 7)](p1.png)
 
 2. **Definite integral:** \(\int_{0}^{\pi} \sin x \, dx = 2\)  
